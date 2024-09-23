@@ -1,7 +1,5 @@
 ![stupygorounded](https://github.com/user-attachments/assets/9e711ac9-d0c1-409f-8512-0e76fc311993)
 
-(THE README IS STILL A W.I.P!!!)
-
 Stu.pyGO is a Free and Open Source Software (FOSS) based on the Python Terminal that allows you to study words efficiently and quickly, much like you can on programs such as Quizlet or StudyGO. This program is designed to provide a reliable studying platform for users who cannot afford other options or would prefer an open-source solution over proprietary alternatives.
 
 ## The Basics
@@ -44,5 +42,5 @@ The current version is **v0.9.9**, and future updates may include:
 - More in-depth settings
 
 ### Contributing
-This is my first ever Python project that I've released out to the public, so please feel free to call me out on any programming mistakes I've done! I'm open to any criticism. I'm also open to anyone wanting to make fan translations for the program. I will only accept volunteer work.
+This is my first ever Python project that I've released out to the public, so please feel free to call me out on any programming mistakes I could have done! I'm open to any criticism. I'm also open to anyone wanting to make fan translations for the program. I will only accept volunteer work.
 
