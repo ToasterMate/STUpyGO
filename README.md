@@ -40,6 +40,8 @@ The current version is **v0.9.9**, and future updates may include:
 - Text to speech
 - A dynamic mode, giving you an options menu first and then making you type it in
 - More in-depth settings
+- An AI-Powered "Describing" mode where AI describes the word in question and you guess what it is
+- Reminder notifications (Windows only)
 
 ### Contributing
 This is my first ever Python project that I've released out to the public, so please feel free to call me out on any programming mistakes I could have done! I'm open to any criticism. I'm also open to anyone wanting to make fan translations for the program. I will only accept volunteer work.
